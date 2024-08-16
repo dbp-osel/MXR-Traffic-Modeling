@@ -44,8 +44,12 @@ traitlets        : 5.7.1
 
 ## Running the Jupyter Notebook
 1. Clone the repo to your local computer.
-2. Open a notebook file (*.ipynb shown in the file directory) on your Jupyter Notebook editor (e.g., in Anaconda).
-3. Run the cells from top to down for a study.
+2. Download the RFH link traffic raw data (in CSV files) from FDA Regulatory Science Tool (RST) Catalog (link here).
+    1. Open the link and download the files.
+    2. Change the file extension from .txt to .csv from removing ".txt" from the full file name.
+    3. Save the files in the /RFH folder.
+4. Open a notebook file (*.ipynb shown in the file directory) on your Jupyter Notebook editor (e.g., in Anaconda).
+5. Run the cells from top to down for a study.
 
 #### Tips on using Jupyter Notebook.
 1. The notebook is organized by a sequence of program blocks (called as Cells). Each cell can host either Python code or markdown with plain text or html-style content.
