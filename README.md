@@ -9,7 +9,7 @@ The project code was prepared to accompany with the FDA OSEL Regulatory Science 
 
 Please refer to our papers [1][2] for more details on modeling MXR traffic patterns and utilizing these models.
 
-#### PROGRAMMER: YONGKANG LIU (FDA/CDRH/OSEL/DBP, yongkang.liu@fda.hhs.gov)
+#### PROGRAMMER: YONGKANG LIU (FDA/CDRH/OSEL/DBP)
 
 #### License: CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
 
